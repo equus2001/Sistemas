@@ -14,7 +14,7 @@ set frase2=Se ha redistrado "%pedir1%" con contraseña "%pedir2%"
 echo.
 echo %frase2%
 echo.
-set frase3=Ahora es el momento de registrarse con el mismo usuario y la misma contraseña
+set frase3=Ahora es el momento de registrarse con el mismo usuario y la misma contraseña.
 echo.
 echo %frase3%
 echo.
