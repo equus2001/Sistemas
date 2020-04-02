@@ -6,7 +6,7 @@ echo %frase1%
 echo.
 set/p pedir1=Escriba el nombre del usuario:  
 echo.
-set/p pedir2=Escriba la contraseña del usuario: 
+set/p pedir2=Escriba la contraseña del usuaria: 
 echo.
 :inicio
 echo.
