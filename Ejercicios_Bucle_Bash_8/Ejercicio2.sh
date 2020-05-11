@@ -7,7 +7,7 @@ for ((numero=10; numero<11; numero ++)); do
 if [ $longitud -le $numero ];then
         echo "La palabra $x contiene $veces caracteres igual a -$2-"
 else
-        echo "Supera los 10 carácteres"
+        echo "Supera los 10 caracteres"
 fi
         break 1
 done
